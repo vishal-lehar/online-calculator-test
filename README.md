@@ -1,5 +1,5 @@
 # online-calculator-test
-## Test online calculator scenarios
+## Test online calculator scenarios 
 Scenario Outline: Test subtraction, division and CE functionalities
 Given Open chrome browser and start application
 When I enter the following values and press the CE button	
